@@ -19,8 +19,7 @@ Deploying a Model Context Protocol (MCP) Server on Azure Using Python and FastMC
 
 1. **Create an Azure Web App**
    - Use the Azure Portal
-   - or Quickstart as Helper: 
-
+   - or [Quickstart as Helper](https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=fastapi%2Cwindows%2Cazure-portal%2Cazure-cli-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli)
 
 
 ### Deploy
